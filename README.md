@@ -1,5 +1,8 @@
-It is human's face and smile detector written by using Python language and
+It is human's face and smile detector 
+Written by using: 
+* Python language
 * Open CV library
 * Cascade Neural Networks
 
-For using detector you should download both xml files, python and open cv library and then run code
+For using detector you should download both xml files, python and open cv library
+Finally, you can run main.py
